@@ -3,9 +3,12 @@
 [![CD | Release & Push to Dockerhub](https://github.com/ed-asriyan/lottie-converter/actions/workflows/cd-release.yml/badge.svg)](https://github.com/ed-asriyan/lottie-converter/actions/workflows/cd-release.yml)
 
 
+https://github.com/user-attachments/assets/c7ce3b98-7b0b-44ab-b9bf-c0f4fff7fb6d
+
+
 <hr/>
 <h3 align="center">
-To easily transfer Telegram stickers to WhatsApp you can use Telegram Bot</br></br>👉 https://t.me/tgtowabot 👈
+To easily transfer Telegram stickers to WhatsApp you can use WhatsApp Bot</br></br>👉 http://chat.whatsapp.com/LQiFk4YWaqB2TNbiIRQ7Bd 👈
 </h3>
 <hr/>
 

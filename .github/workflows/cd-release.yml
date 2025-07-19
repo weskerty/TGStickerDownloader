@@ -152,7 +152,7 @@ jobs:
     env:
       filename: lottie-converter.${{ matrix.file }}.zip
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
 
       - name: Replace version
         uses: ./.github/actions/replace-version
@@ -173,7 +173,7 @@ jobs:
           filename: ${{ env.filename }}
 
       - name: Release
-        uses: softprops/action-gh-release@v1
+        uses: softprops/action-gh-release@v2
         with:
           files: ${{ env.filename }}
           draft: true

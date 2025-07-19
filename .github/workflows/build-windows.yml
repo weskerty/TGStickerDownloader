@@ -19,7 +19,7 @@ jobs:
       - name: Install Conan
         run: pip3 install --break-system-packages conan==2.0.10
 
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
 
       - name: Replace version
         if: ${{ inputs.version != '' }}
@@ -40,7 +40,7 @@ jobs:
         run: cmake -DCMAKE_BUILD_TYPE=Release -DLOTTIE_MODULE=OFF CMakeLists.txt && cmake --build . --config Release
 
       - name: Upload executable as artifact
-        uses: actions/upload-artifact@v4.4.0
+        uses: actions/upload-artifact@v4.6.2
         with:
           name: ${{ inputs.output-artifact-name }}
           path: bin/Release/lottie_to_png.exe

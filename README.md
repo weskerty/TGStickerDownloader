@@ -30,7 +30,7 @@ winget install git -e --scope machine --source winget
 
 
 ### To easily transfer Telegram stickers to WhatsApp you can use:
- [WhatsApp Bot](http://chat.whatsapp.com/LQiFk4YWaqB2TNbiIRQ7Bd) or [Telegram Bot](https://t.me/tgtowabot)
+ [WhatsApp Bot](https://github.com/lyfe00011/levanter) or [Telegram Bot](https://t.me/tgtowabot)
 
 
 

@@ -24,6 +24,7 @@ sudo pacman -S libwebp jq --noconfirm --needed
 ```
 winget install libwebp -e --scope machine --source winget
 winget install jq -e --scope machine --source winget
+winget install git -e --scope machine --source winget
 
 ```
 

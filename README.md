@@ -28,11 +28,9 @@ winget install git -e --scope machine --source winget
 
 ```
 
-<hr/>
-<h3 align="center">
-To easily transfer Telegram stickers to WhatsApp you can use WhatsApp Bot</br></br>👉 http://chat.whatsapp.com/LQiFk4YWaqB2TNbiIRQ7Bd 👈
-</h3>
-<hr/>
+
+### To easily transfer Telegram stickers to WhatsApp you can use:
+ [WhatsApp Bot](http://chat.whatsapp.com/LQiFk4YWaqB2TNbiIRQ7Bd) or [Telegram Bot](https://t.me/tgtowabot)
 
 
 
@@ -53,7 +51,8 @@ To easily transfer Telegram stickers to WhatsApp you can use WhatsApp Bot</br></
 
 
 
-## How to use
+
+## How to use IN DOCKER
 There are 2 options:
 * Run using [Docker](https://www.docker.com/). One-line command, the option requires only Docker installed
 * Download and run compiled executable files. The option requires run-time dependecies installed

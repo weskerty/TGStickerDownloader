@@ -5,12 +5,52 @@
 
 https://github.com/user-attachments/assets/c7ce3b98-7b0b-44ab-b9bf-c0f4fff7fb6d
 
+> [!IMPORTANT]
+> # Need webp jq
+
+# Debian/Ubuntu:
+```
+sudo apt-get install webp jq -y
+
+```
+
+# Arch Linux:
+```
+sudo pacman -S libwebp jq --noconfirm --needed
+
+```
+
+# Windows:
+```
+winget install libwebp -e --scope machine --source winget
+winget install jq -e --scope machine --source winget
+
+```
 
 <hr/>
 <h3 align="center">
 To easily transfer Telegram stickers to WhatsApp you can use WhatsApp Bot</br></br>👉 http://chat.whatsapp.com/LQiFk4YWaqB2TNbiIRQ7Bd 👈
 </h3>
 <hr/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## How to use
 There are 2 options:
